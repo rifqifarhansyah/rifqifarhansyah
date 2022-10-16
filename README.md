@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github Activity Graph](https://readmeprofile.herokuapp.com//graph?username=rifqifarhansyah)
+[![Github Activity Graph](https://readmeprofile.herokuapp.com//graph?username=rifqifarhansyah&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
