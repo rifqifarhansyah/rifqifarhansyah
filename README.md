@@ -45,6 +45,11 @@
 <br/>
 
 [![Github Activity Graph](https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align = "center">
+<img src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=chartreuse-dark&column=-1)" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=rifqifarhansyah&show_icons=true&count_private=true&theme=chartreuse-dark&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook&custom_title=Gare's%20most%20used%20languages" alt="GitHub Stats">
+<p>
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
