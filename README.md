@@ -1,6 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/rifqifarhansyah"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Mohammad+Rifqi+Farhansayh" alt="rifqifarhansyah | hello_world!" /></a>
+</p> 
 
-[![Github Activity Graph](https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Github Activity Graph](https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
