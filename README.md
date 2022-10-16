@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 [![Github Activity Graph](https://github-readme-activity-graph.rifqifarhansyah.repl.co/graph?username=rifqifarhansyah&theme=chartreuse-dark&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
-**rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
 Here are some ideas to get you started:
 
