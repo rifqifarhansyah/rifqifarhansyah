@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-
+## 📁 Featured Project
 <a href="https://github.com/rifqifarhansyah/FrontEndIntroduction">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=FrontEndIntroduction&theme=chartreuse-dark&show_owner=true" />
 </a>
@@ -35,23 +35,6 @@
 <br/>
 
 ## 📊 Github stats
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rifqifarhansyah's Github Stats" src="https://github-readme-stats-dusky-eight.vercel.app/api/?username=rifqifarhansyah&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rifqifarhansyah's Top Languages" src="https://github-readme-stats-dusky-eight.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <a href="https://github.com/SonuKumar81800/">
-  <img align="center" height="230px" src="https://github-readme-stats-dusky-eight.vercel.app/?user=rifqifarhansyah&theme=chartreuse-dark&layout=compact" alt="Rifqi Farhansyah" />  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-<a href="https://github.com/SonuKumar81800/">
-  <img align="center" height="280px" src="https://github-readme-stats-dusky-eight.vercel.app/graph?username=rifqifarhansyah&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Rifqi Farhansyah" />  
-  
-</a>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
