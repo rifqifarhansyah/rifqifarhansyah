@@ -20,7 +20,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:mrifki193@gmail.com" alt="Mail"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/mail-2-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<hr>
 
 ## 📁 Featured Project
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -31,7 +30,6 @@
   <a href="https://github.com/rifqifarhansyah/Git-Introduction"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=rifqifarhansyah&repo=Git-Introduction&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/rifqifarhansyah/Milestone02_K02"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
 </p>
-<hr>
 
 ## 🛠️ My favorite tools
 
@@ -94,7 +92,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-<hr>
 
 ## 📊 Github stats
 <details> 
