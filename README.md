@@ -2,6 +2,12 @@
   <a href="https://github.com/rifqifarhansyah"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Rifqi+Farhansyah" alt="rifqifarhansyah | hello_world!" /></a>
 </p> 
 
+## <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
+- :school: I'm currently the second year computer science student at **Institut Teknologi Bandung (ITB)*
+- :earth_asia: I'm living now in **Magelang City, Central Java, Indonesia**
+- :sunglasses: My quote is ***"Lakon Menang Keri"*** 
+
+
 
 [![Github Activity Graph](https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
