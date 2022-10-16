@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Github Activity Graph](https://github-readme-activity-graph.rifqifarhansyah.repl.co/graph?username=rifqifarhansyah&theme=chartreuse-dark&)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
