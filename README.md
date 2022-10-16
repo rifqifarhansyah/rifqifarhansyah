@@ -22,10 +22,10 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/rifqifarhansyah/FrontEndIntroduction"><img width="300" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=FrontEndIntroduction&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/rifqifarhansyah/Algeo01-21086"><img width="300" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Algeo01-21086&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/rifqifarhansyah/Git-Introduction"><img width="300" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=rifqifarhansyah&repo=Git-Introduction&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/rifqifarhansyah/Milestone02_K02"><img width="300" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/rifqifarhansyah/FrontEndIntroduction"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=FrontEndIntroduction&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/rifqifarhansyah/Algeo01-21086"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Algeo01-21086&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/rifqifarhansyah/Git-Introduction"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=rifqifarhansyah&repo=Git-Introduction&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/rifqifarhansyah/Milestone02_K02"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
 </p>
 <br/>
 
