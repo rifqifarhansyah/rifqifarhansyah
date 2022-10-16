@@ -42,6 +42,7 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&show_owner=true" />
 </a>
 </a>
+<br/>
 
 [![Github Activity Graph](https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
