@@ -18,15 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rifqifarhansyah&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-<a href="https://github.com/rifqifarhansyah/">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqifarhansyah&theme=chartreuse-dark&langs_count=5&count_private=true"/>
-</a>
-<a href="https://github.com/rifqifarhansyah/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rifqifarhansyah&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
-</a>
 <a href="https://github.com/rifqifarhansyah/FrontEndIntroduction">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=FrontEndIntroduction&theme=chartreuse-dark&show_owner=true" />
 </a>
