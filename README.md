@@ -29,6 +29,16 @@
 </p>
 <br/>
 
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rifqi's streak" src="https://githubreadmestr.herokuapp.com/?user=rifqifarhansyah&theme=chartreuse-dark&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
 ## 📊 Github stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
