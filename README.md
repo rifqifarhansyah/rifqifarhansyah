@@ -30,7 +30,6 @@
   <a href="https://github.com/rifqifarhansyah/Git-Introduction"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=rifqifarhansyah&repo=Git-Introduction&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/rifqifarhansyah/Milestone02_K02"><img width="350" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
 </p>
-<br/>
 
 ## 🛠️ My favorite tools
 
