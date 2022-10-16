@@ -1,11 +1,14 @@
-<p align="center">
-  <a href="https://github.com/rifqifarhansyah"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Rifqi+Farhansyah" alt="rifqifarhansyah | hello_world!" /></a>
-</p> 
+<h3 align="center">
+  Welcome to Rifqi Farhansyah's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
-- :school: I'm currently the second year computer science student at **Institut Teknologi Bandung (ITB)*
-- :earth_asia: I'm living now in **Magelang City, Central Java, Indonesia**
-- :sunglasses: My quote is ***"Lakon Menang Keri"*** 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20at%20ITB;Experienced%20in%2FResearch%20Project;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#6BC71D&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+
 
 
 
