@@ -18,10 +18,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<a href="https://github.com/rifqifarhansyah/">
-  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=rifqifarhansyah&theme=chartreuse-dark&layout=compact" alt="Rifqi Farhansyah" />  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rifqifarhansyah&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+
 <br/>
 <a href="https://github.com/rifqifarhansyah/">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqifarhansyah&theme=chartreuse-dark&langs_count=5&count_private=true"/>
