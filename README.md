@@ -19,18 +19,7 @@
 </p>
 
 ## 📁 Featured Project
-<a href="https://github.com/rifqifarhansyah/FrontEndIntroduction">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=FrontEndIntroduction&theme=chartreuse-dark&show_owner=true" />
-</a>
-<a href="https://github.com/rifqifarhansyah/Algeo01-21086">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Algeo01-21086&theme=chartreuse-dark&show_owner=true" />
-</a>
-<a href="https://github.com/rifqifarhansyah/Git-Introduction">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Git-Introduction&theme=chartreuse-dark&show_owner=true" />
-</a>
-<a href="https://github.com/rifqifarhansyah/Milestone02_K02">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&show_owner=true" />
-</a>
+
 </a>
 <br/>
 
