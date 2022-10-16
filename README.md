@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/rifqifarhansyah"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Mohammad+Rifqi+Farhansayh" alt="rifqifarhansyah | hello_world!" /></a>
+  <a href="https://github.com/rifqifarhansyah"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Rifqi+Farhansyah" alt="rifqifarhansyah | hello_world!" /></a>
 </p> 
 
 
