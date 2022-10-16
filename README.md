@@ -16,6 +16,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/13521166_Mohammad Rifqi#9063" alt="Discord"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/discord-2-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/rifqi.farhansyah_/" alt="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/instagram-xxl.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:mrifki193@gmail.com" alt="Mail"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/mail-2-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ## 📁 Featured Project
@@ -40,6 +43,7 @@
     <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Ahaskell"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"></a>
     <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%rifqifarhansyah+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
