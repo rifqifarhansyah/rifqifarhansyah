@@ -18,7 +18,33 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-
+<a href="https://github.com/rifqifarhansyah/">
+  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=rifqifarhansyah&theme=chartreuse-dark&layout=compact" alt="Rifqi Farhansyah" />  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+<a href="https://github.com/rifqifarhansyah/">
+  <img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?username=rifqifarhansyah&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Rifqi Farhansyah" />  
+  
+</a>
+<a href="https://github.com/rifqifarhansyah/">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqifarhansyah&theme=chartreuse-dark&langs_count=5&count_private=true"/>
+</a>
+<a href="https://github.com/rifqifarhansyah/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rifqifarhansyah&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
+</a>
+<a href="https://github.com/rifqifarhansyah/FrontEndIntroduction">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=FrontEndIntroduction&theme=chartreuse-dark&show_owner=true" />
+</a>
+<a href="https://github.com/rifqifarhansyah/Algeo01-21086">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Algeo01-21086&theme=chartreuse-dark&show_owner=true" />
+</a>
+<a href="https://github.com/rifqifarhansyah/Git-Introduction">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Git-Introduction&theme=chartreuse-dark&show_owner=true" />
+</a>
+<a href="https://github.com/rifqifarhansyah/Milestone02_K02">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&show_owner=true" />
+</a>
+</a>
 
 [![Github Activity Graph](https://readmeprofile.herokuapp.com/graph?username=rifqifarhansyah&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
