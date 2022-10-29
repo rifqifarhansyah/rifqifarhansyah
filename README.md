@@ -29,7 +29,7 @@
   <a href="https://github.com/rifqifarhansyah/Algeo01-21086"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Algeo01-21086&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/rifqifarhansyah/TuBes-Daspro"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=TuBes-Daspro&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/rifqifarhansyah/Tubes-PengKom"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Tubes-Pengkom&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/rifqifarhansyah/Praktikum-Orkom"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=rifqifarhansyah&repo=Praktikum-Orkom&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/rifqifarhansyah/DrumKitSimulator"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=rifqifarhansyah&repo=DrumKitSimulator&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
   <a href="https://github.com/rifqifarhansyah/Milestone02_K02"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Milestone02_K02&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
 </p>
 
