@@ -110,7 +110,7 @@
 </details>
 
 <p align="center">
-  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1">
+  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1&margin-w=10">
 </p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
 <!--
