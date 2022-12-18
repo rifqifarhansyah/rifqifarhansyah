@@ -82,11 +82,11 @@
 <p>
     <a href="#"><img alt="Dropbox" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?&logo=Dropbox&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+    <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?&logo=googledrive&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white"></a>
+    <a href="#"><img alt="Mega" src="https://img.shields.io/badge/Mega-%23D90007.svg?&logo=Mega&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Onedrive" src="https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white"></a>
+    <a href="#"><img alt="Onedrive" src="https://img.shields.io/badge/OneDrive-0078D4.svg?&logo=microsoftonedrive&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
