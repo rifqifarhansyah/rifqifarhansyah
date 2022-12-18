@@ -47,7 +47,7 @@
   <a href="https://github.com/rifqifarhansyah/Tubes-PengKom"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Tubes-Pengkom&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
-## 🛠️ My favorite tools
+## 🛠️ My favourite tools
 
 ### 👨‍💻 Programming and markup languages
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
