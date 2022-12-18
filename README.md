@@ -104,8 +104,8 @@
     <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?&logo=svelte&logoColor=white"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Vue" src="(https://img.shields.io/badge/vuejs-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D"></a>
-    <a href="#"><img alt="Web3" src="(https://img.shields.io/badge/web3.js-F16822?&logo=web3.js&logoColor=white"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D"></a>
+    <a href="#"><img alt="Web3" src="https://img.shields.io/badge/web3.js-F16822?&logo=web3.js&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
