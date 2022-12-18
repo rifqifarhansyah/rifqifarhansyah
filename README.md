@@ -110,6 +110,9 @@
 </details>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
+<p align="center">
+  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix">
+</p>
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
