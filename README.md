@@ -51,7 +51,6 @@
     <a href="https://github.com/search?q=user%3Arifqifarhansyah+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Arifqifarhansyah+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Arifqifarhansyah+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -97,7 +96,12 @@
 
 ## 📊 Github stats
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 GitHub Profile & Streak Stats</summary>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rifqi's streak" src="https://streak-stats.demolab.com?user=rifqifarhansyah&theme=chartreuse-dark&hide_border=true"/>
+    </a>
+  </p>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Github Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/?username=rifqifarhansyah&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
