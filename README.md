@@ -109,10 +109,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
 <p align="center">
-  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix">
+  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1">
 </p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
