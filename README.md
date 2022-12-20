@@ -47,7 +47,7 @@
   <a href="https://github.com/rifqifarhansyah/Tubes-PengKom"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=rifqifarhansyah&repo=Tubes-Pengkom&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
-<a href="https://github.com/rifqifarhansyah?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-black?style=for-the-badge&color=#6BC71D&logoColor=#6BC71D&logo=repo"/></a>
+<a href="https://github.com/rifqifarhansyah?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-black?style=for-the-badge&color=black&logoColor=#6BC71D&logo=repo"/></a>
 
 ## 🛠️ My favourite tools
 
