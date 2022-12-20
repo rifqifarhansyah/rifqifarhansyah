@@ -219,7 +219,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- <!--START_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  
+  <!--END_SECTION:activity-->
 </details>
 
 <p align="center">
