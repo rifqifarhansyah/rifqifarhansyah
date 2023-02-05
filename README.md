@@ -221,15 +221,16 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <!--START_SECTION:activity-->
-  
-  <!--END_SECTION:activity-->
 </details>
 
 <p align="center">
   <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1&margin-w=10">
 </p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
+<h3>⚡ Recent GitHub Activity</h3>
+  <!--START_SECTION:activity-->
+  
+<!--END_SECTION:activity-->
 <!--
 **rifqifarhansyah/rifqifarhansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.git 
 
