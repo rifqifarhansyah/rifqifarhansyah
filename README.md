@@ -227,9 +227,6 @@
   <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1&margin-w=10">
 </p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
-
-[![Rifqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rifqifarhansyah)](https://github.com/anuraghazra/github-readme-stats)
-<h3>⚡ Recent GitHub Activity</h3>
   <!--START_SECTION:activity-->
   
 <!--END_SECTION:activity-->
