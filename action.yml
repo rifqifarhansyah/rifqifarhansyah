@@ -4,7 +4,7 @@ author: jamesgeorge007
 
 inputs:
   GH_USERNAME:
-    description: 'Your GitHub username'
+    description: 'rifqifarhansyah'
     default: ${{ github.repository_owner }}
     required: false
   COMMIT_MSG:
@@ -13,7 +13,7 @@ inputs:
     required: false
   MAX_LINES:
     description: "The maximum number of lines populated in your readme file"
-    default: 5
+    default: 10
     required: false
 
 branding:

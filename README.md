@@ -232,7 +232,6 @@
 </details>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-
 <!--START_SECTION:activity-->
   
 <!--END_SECTION:activity-->
