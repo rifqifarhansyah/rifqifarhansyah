@@ -52,6 +52,9 @@
 ## 🛠️ My favourite tools
 
 <details>
+  <summary>🕹 My Favorite Tools</summary>
+  <br/>
+
   ### 👨‍💻 Programming and markup languages
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <p>
