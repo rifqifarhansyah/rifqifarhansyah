@@ -48,6 +48,25 @@
   <a href="https://github.com/rifqifarhansyah?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-6BC71D?style=for-the-badge&color=black&logoColor=white&logo=repo"/></a>
 </p>
 
+## 📊 Github stats
+<details> 
+  <summary>💻 GitHub Profile & Streak Stats</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rifqi's streak" src="https://streak-stats.demolab.com?user=rifqifarhansyah&theme=chartreuse-dark&hide_border=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Github Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/?username=rifqifarhansyah&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  </p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<p align="center">
+  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1&margin-w=10">
+</p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
 
 ## 🛠️ My favourite tools
 
@@ -211,26 +230,6 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-## 📊 Github stats
-<details> 
-  <summary>💻 GitHub Profile & Streak Stats</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rifqi's streak" src="https://streak-stats.demolab.com?user=rifqifarhansyah&theme=chartreuse-dark&hide_border=true"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Github Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/?username=rifqifarhansyah&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rifqi's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=rifqifarhansyah&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<p align="center">
-  <img title="Rifqi Farhansyah properties" alt="Rifqi's trophy" src="https://github-profile-trophy.vercel.app/?username=rifqifarhansyah&theme=matrix&no-frame=true&column=-1&margin-w=10">
-</p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rifqi's Activity Graph" src="https://rifqi-activity-graph.cyclic.app/graph?username=rifqifarhansyah&theme=chartreuse-dark&hide_border=true" /></a>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
