@@ -10,15 +10,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rifqifarhansyah/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://www.iconsdb.com/icons/preview/color/6BC71D/linkedin-3-xxl.png"/></a>
+  <a href="https://www.linkedin.com/in/mohammadrifqifarhansyah/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://www.iconsdb.com/icons/preview/color/6BC71D/linkedin-3-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/rifqifarha_"><img width="32px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/color/6BC71D/twitter-xxl.png"/></a>
+  <a href="https://twitter.com/rifqifrhnsyah"><img width="32px" alt="Twitter" title="Rifqi's Twitter" src="https://www.iconsdb.com/icons/preview/color/6BC71D/twitter-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/13521166_Mohammad Rifqi#9063" alt="Discord"><img width="32px" alt="Discord" title="Discord" src="https://www.iconsdb.com/icons/preview/color/6BC71D/discord-2-xxl.png"/></a>
+  <a href="https://discordapp.com/users/13521166_Mohammad Rifqi#9063" alt="Rifqi's Discord"><img width="32px" alt="Discord" title="Discord" src="https://www.iconsdb.com/icons/preview/color/6BC71D/discord-2-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/rifqi.farhansyah_/" alt="Instagram"><img width="32px" alt="Instagram" title="Instagram" src="https://www.iconsdb.com/icons/preview/color/6BC71D/instagram-xxl.png"/></a>
+  <a href="https://www.instagram.com/rifqi.farhansyah_/" alt="Rifqi's Instagram"><img width="32px" alt="Instagram" title="Instagram" src="https://www.iconsdb.com/icons/preview/color/6BC71D/instagram-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:mrifki193@gmail.com" alt="Mail"><img width="32px" alt="Mail" title="Mail" src="https://www.iconsdb.com/icons/preview/color/6BC71D/mail-2-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:mrifqifarhansyah@gmail.com" alt="Mail"><img width="32px" alt="Mail" title="Rifqi's e-Mail" src="https://www.iconsdb.com/icons/preview/color/6BC71D/mail-2-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Social badges section -->
