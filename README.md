@@ -2,14 +2,10 @@
 
 🔬 AI is cool | 🎓 Final-year undergraduate student at Bandung Institute of Technology (ITB)  
 
----
-
 ### 🔍 Research Interests  
 🚀 Natural Language Processing  
 🤖 Large Language Models  
 📊 Machine Learning Application & Specific Fields  
-
----
 
 ### 💡 Get in Touch  
 📧 Email: [mrifqifarhansyah@gmail.com](mailto:mrifqifarhansyah@gmail.com)  
